@@ -5,3 +5,4 @@ Cheffing liste de courses interactive;
     "ng serve" dans le dossier /Technical-test
     "npx nodemon server" dans le dossier /backend
     "mongod" dans le dossier /backend# chefing_technicall_test
+    puis allez sur l'adresee http://localhost:4200
